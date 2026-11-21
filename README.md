@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Венера 👋
 
-<!--
-**NeraDeg/NeraDeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Придумываю приложения и игры, собираю их с помощью ИИ.
+Осваиваю AI-assisted разработку на собственных проектах:
+от «интересно, получится?» до работающего приложения.
+Иногда с приключениями))
 
-Here are some ideas to get you started:
+## Чем пользуюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ИИ:** Codex, ChatGPT, Cursor, DeepSeek
+- **Инструменты:** Android Studio, GitHub, Figma
+- **Сейчас изучаю:** Kotlin, Jetpack Compose и автоматизацию в n8n
+
+## Первый релиз 🌿
+
+**Помодоро Баланс** — Android-приложение с таймером,
+заметками и календарём в атмосфере лесной сказки
+
+[Посмотреть проект](https://github.com/NeraDeg/pomodoro-balance)
+· [Скачать в RuStore](https://www.rustore.ru/catalog/app/com.munkberries.tikhayapolyanka)
+
+## Где ещё меня найти
+
+Веду [«сбой в системе»](https://t.me/venusvibecoding):
+делюсь проектами, инструментами и находками по работе с ИИ
